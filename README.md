@@ -82,21 +82,19 @@ https://masoud.me
   - to this -> ```Options -Indexes +FollowSymLinks```
   - ```sudo systemctl restart apache2```
 - git clone https://github.com/masoud-me/anbar.git
-- sudo chmod -R 777 /anbar
-- restart your webserver for example systemctl restart apache2
-- install redis
-- install php-redis
-- go to your ip or domain for example : https://anbar.masoud.me
 
-
-```
-
-**2. Install via download**
+** You can  Install via download instead of cloning from git**
 ```
 wget https://github.com/masoud-me/anbar/archive/refs/heads/main.zip
 unzip main.zip
 chmod -Rf 777 ./*
 ```
+
+- sudo chmod -R 777 /anbar
+- restart your webserver for example systemctl restart apache2
+- install redis
+- install php-redis
+- go to your ip or domain for example : https://anbar.masoud.me
 
 
 
