@@ -68,7 +68,13 @@ https://masoud.me
 
 
 # Install
-
+- install git 
+- install php
+- install php-mgstring
+- install php-curl
+- install php-gd
+- install apache or nginx
+- 
 **1. Install from source**
 ```
 git clone https://github.com/masoud-me/anbar.git
