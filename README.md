@@ -74,15 +74,21 @@ https://masoud.me
 - install php-curl
 - install php-gd
 - install apache or nginx
+- install mysql (not mariadb)
+- install php-mysql
 - if you install apache disable directory listing :
   - sudo nano /etc/apache2/apache2.conf
   - change this -> ```Options Indexes FollowSymLinks```
   - to this -> ```Options -Indexes +FollowSymLinks```
   - ```sudo systemctl restart apache2```
-**1. Install from source**
-```
-git clone https://github.com/masoud-me/anbar.git
-chmod -Rf 777 ./anbar/*
+- git clone https://github.com/masoud-me/anbar.git
+- sudo chmod -R 777 /anbar
+- restart your webserver for example systemctl restart apache2
+- install redis
+- install php-redis
+- go to your ip or domain for example : https://anbar.masoud.me
+
+
 ```
 
 **2. Install via download**
