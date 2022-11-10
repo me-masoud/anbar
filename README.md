@@ -1,8 +1,8 @@
-# kodbox
+# Anbar (Forked from Kodbox)
 
 [![Home page](https://img.shields.io/badge/home-page-yellow.svg?style=flat)](http://kodcloud.com) [![GPLV3 License](https://img.shields.io/badge/Licence-GPLV3-green.svg?style=flat)](http://kodcloud.com)
 
-> kodbox is a file manager for web. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run kodbox either online or locally,on Linux, Windows or Mac based platforms. The only requirement is to have PHP 5 available.
+> Anbar is a file manager for web. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run Anbar either online or locally,on Linux, Windows or Mac based platforms. The only requirement is to have PHP 5 available.
 
 ![](https://raw.githubusercontent.com/kalcaddle/static/master/images/kod/common2.png)
 ![](https://raw.githubusercontent.com/kalcaddle/static/master/images/kod/common3.png)
@@ -10,10 +10,8 @@
 
 ### [Demo](http://demo.kodcloud.com/) [user: demo/demo]
 -----
-- [Change log](./ChangeLog.md)
 - [English Document](http://kodcloud.com#lang=en)
-- [中文文档](http://kodcloud.com/#lang=zh_CN)
-- [Donate](https://www.paypal.me/kalcaddle)
+
 
 # Features
 - Use experience like operating system, Rich context menu and toolbar, drag and drop, shortcut keys......
@@ -73,13 +71,13 @@
 
 **1. Install from source**
 ```
-git clone https://github.com/kalcaddle/kodbox.git
-chmod -Rf 777 ./kodbox/*
+git clone https://github.com/masoud-me/anbar.git
+chmod -Rf 777 ./anbar/*
 ```
 
 **2. Install via download**
 ```
-wget https://github.com/kalcaddle/kodbox/archive/refs/heads/main.zip
+wget https://github.com/masoud-me/anbar/archive/refs/heads/main.zip
 unzip main.zip
 chmod -Rf 777 ./*
 ```
