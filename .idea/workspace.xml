@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5aff3e47-11c9-41d5-9f23-da4a99b280b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/template/user/email.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/template/user/email.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/ar/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/ar/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/bn/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/bn/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/de/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/de/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/en/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/en/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/es/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/es/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/fr/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/fr/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/hi/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/hi/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/id/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/id/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/it/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/it/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/ja/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/ja/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/ko/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/ko/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/pl/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/pl/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/pt/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/pt/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/ru/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/ru/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/ta/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/ta/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/th/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/th/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/tr/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/tr/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/uk/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/uk/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/vi/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/vi/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/zh-CN/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/zh-CN/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/i18n/zh-TW/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/i18n/zh-TW/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/setting.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/setting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/DPlayer/static/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/DPlayer/static/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/officeLive/i18n/en.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/officeLive/i18n/en.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/officeLive/i18n/zh-CN.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/officeLive/i18n/zh-CN.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/officeViewer/i18n/en.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/officeViewer/i18n/en.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/officeViewer/i18n/zh-CN.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/officeViewer/i18n/zh-CN.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/app/dist/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/app/dist/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/app/dist/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/app/dist/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/common/logo-en.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/common/logo-en.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/common/logo-kod-blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/common/logo-kod.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/common/logo-kod.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/common/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +23,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/masoud/Documents/persoanl/anbar&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/masoud/Documents/persoanl/anbar",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,6 +45,7 @@
       <workItem from="1668072472329" duration="8138000" />
       <workItem from="1668123328718" duration="306000" />
       <workItem from="1668247089578" duration="29703000" />
+      <workItem from="1668461414058" duration="2118000" />
     </task>
     <servers />
   </component>
