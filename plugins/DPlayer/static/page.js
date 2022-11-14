@@ -33,7 +33,7 @@ define(function(require, exports){
 			contextmenu: [
 				{
 					text: 'kodcloud官网',
-					link: 'https://kodcloud.com/'
+					link: 'https://anbar.masoud.me/'
 				}
 			]
 		};

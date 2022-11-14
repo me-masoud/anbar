@@ -14,5 +14,5 @@ return array(
 		<div class='grey-8'>https://docview.mingdao.com/op/view.aspx?src=</div>
 		<div class='grey-8'>https://preview.tita.com/op/view.aspx?src=</div>
 		<div class='grey-8'>https://view.officeapps.live.com/op/view.aspx?src=</div><br/>
-		内网的用户，可以自己搭建;<a href='https://kodcloud.com/help/show-5.html' target='_blank'>了解详情</a></div>"
+		内网的用户，可以自己搭建;<a href='https://anbar.masoud.me/help/show-5.html' target='_blank'>了解详情</a></div>"
 );

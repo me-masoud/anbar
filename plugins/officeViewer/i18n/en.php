@@ -40,7 +40,7 @@ return array(
 		<button class='btn btn-success check-libreoffice mr-5' style='padding: 5px 12px;border-radius: 3px;font-size: 13px;'>Check path</button>
 		<a style='padding: 6px 12px; vertical-align: middle;' target='_blank' href='https://zh-cn.libreoffice.org/get-help/install-howto/'>Installation guide</a>",
 
-	"officeViewer.officeLive.desc" 				=> "Parse files through Microsoft office services to achieve file preview.<br/><code style='color:#c7254e'>The server needs to be on the external network and is accessed by a domain name</code>< br>Intranet users can build it by themselves;<a href='https://kodcloud.com/help/show-5.html' target='_blank'>Learn more</a>",
+	"officeViewer.officeLive.desc" 				=> "Parse files through Microsoft office services to achieve file preview.<br/><code style='color:#c7254e'>The server needs to be on the external network and is accessed by a domain name</code>< br>Intranet users can build it by themselves;<a href='https://anbar.masoud.me/help/show-5.html' target='_blank'>Learn more</a>",
 	"officeViewer.officeLive.apiServer" 		=> "Server Interface",
 	"officeViewer.officeLive.apiServerDesc"		=> "<div class='can-select'>Microsoft official service and third-party service interface, choose one to fill in:<br/>
 													<div class='mt-5'> https://view.officeapps.live.com/op/embed.aspx?src=</div>

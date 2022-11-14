@@ -40,7 +40,7 @@ return array(
 		<button class='btn btn-success check-libreoffice mr-5' style='padding: 5px 12px;border-radius: 3px;font-size: 13px;'>连接测试</button>
 		<a style='padding: 6px 12px; vertical-align: middle;' target='_blank' href='https://zh-cn.libreoffice.org/get-help/install-howto/'>安装指南</a>",
 
-	"officeViewer.officeLive.desc"				=> "通过微软office服务解析文件，实现文件预览。<br/><code style='color:#c7254e'>服务器需在外网，且为域名访问</code><br>内网的用户，可以自己搭建;<a href='https://kodcloud.com/help/show-5.html' target='_blank'>了解详情</a>",
+	"officeViewer.officeLive.desc"				=> "通过微软office服务解析文件，实现文件预览。<br/><code style='color:#c7254e'>服务器需在外网，且为域名访问</code><br>内网的用户，可以自己搭建;<a href='https://anbar.masoud.me/help/show-5.html' target='_blank'>了解详情</a>",
 	"officeViewer.officeLive.apiServer"			=> "服务器接口",
 	"officeViewer.officeLive.apiServerDesc"		=> "<div class='can-select'>微软官方服务及第三方服务接口，选其中一个填写：<br/>
 													<div class='mt-5'> https://view.officeapps.live.com/op/embed.aspx?src=</div>
