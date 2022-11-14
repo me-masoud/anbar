@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aff3e47-11c9-41d5-9f23-da4a99b280b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="5aff3e47-11c9-41d5-9f23-da4a99b280b5" name="Changes" comment="add docker file">
+      <change afterPath="$PROJECT_DIR$/webserver/box.masoud.me.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +29,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/masoud/Documents/persoanl/anbar",
+    "last_opened_file_path": "/home/masoud/Documents/persoanl/anbar/webserver",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webserver" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,8 +51,16 @@
       <workItem from="1668072472329" duration="8138000" />
       <workItem from="1668123328718" duration="306000" />
       <workItem from="1668247089578" duration="29703000" />
-      <workItem from="1668461414058" duration="2781000" />
+      <workItem from="1668461414058" duration="3498000" />
     </task>
+    <task id="LOCAL-00001" summary="add docker file">
+      <created>1668464529459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668464529459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add docker file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add docker file" />
   </component>
 </project>
