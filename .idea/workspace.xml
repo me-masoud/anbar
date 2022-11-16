@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5aff3e47-11c9-41d5-9f23-da4a99b280b5" name="Changes" comment="update docker file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/masoud/Documents/matican/esgtrade",
+    "last_opened_file_path": "/home/masoud/Documents/persoanl/anbar",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
@@ -51,6 +51,7 @@
       <workItem from="1668123328718" duration="306000" />
       <workItem from="1668247089578" duration="29703000" />
       <workItem from="1668461414058" duration="4615000" />
+      <workItem from="1668620370771" duration="914000" />
     </task>
     <task id="LOCAL-00001" summary="add docker file">
       <created>1668464529459</created>
