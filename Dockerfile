@@ -1,13 +1,11 @@
 FROM php:7.4-apache
 
 
-RUN apt-get update -y && apt-get install -y sendmail libpng-dev
-
-RUN apt-get update && \
-    apt-get install -y \
-        zlib1g-dev
-
+RUN apt-get install -y sendmail libpng-dev
+RUN apt-get install -y
 RUN docker-php-ext-install gd
+
+RUN service apache2 restart
 
 COPY ./webserver/000-default.conf /etc/apache2/sites-available/000-default.conf
 COPY ./webserver/box.masoud.me.conf /etc/apache2/sites-available/box.masoud.me.conf
