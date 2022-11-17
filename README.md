@@ -67,8 +67,11 @@ https://masoud.me
     - Developed by kod itself, this is a nice try.
 
 
-# Install
-- install git 
+# 0- Get project 
+- install git
+- git clone https://github.com/masoud-me/anbar.git
+
+# 1.1- Launch manually
 - install php
 - install php-mgstring
 - install php-curl
@@ -81,14 +84,8 @@ https://masoud.me
   - change this -> ```Options Indexes FollowSymLinks```
   - to this -> ```Options -Indexes +FollowSymLinks```
   - ```sudo systemctl restart apache2```
-- git clone https://github.com/masoud-me/anbar.git
+- 
 
-** You can  Install via download instead of cloning from git**
-```
-wget https://github.com/masoud-me/anbar/archive/refs/heads/main.zip
-unzip main.zip
-chmod -Rf 777 ./*
-```
 
 - sudo chmod -R 777 /anbar
 - restart your webserver for example systemctl restart apache2
@@ -97,6 +94,14 @@ chmod -Rf 777 ./*
 - go to your ip or domain for example : https://anbar.masoud.me
 
 
+
+# 1.2- Launch By docker
+- cd anbar
+- install docker on your server 
+- docker volume create anbarVolume
+- docker build -t anbar .
+- docker run -d --name anbarContainer -p 8000:80 -v anbarVolume:/var/www/anbar (path of project on your server) anbar
+- now go to "yourdomain.com:81"
 
 # FAQs
 
