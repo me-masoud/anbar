@@ -14,8 +14,8 @@ define('GLOBAL_DEBUG_LOG_ALL',0);//0 or 1
 @ini_set('memory_limit','500M');//
 @ini_set('session.cache_expire',1800);
 
-@ini_set('date.timezone', 'Asia/Shanghai');
-@date_default_timezone_set('Asia/Shanghai');
+@ini_set('date.timezone', 'Asia/Tehran');
+@date_default_timezone_set('Asia/Tehran');
 // @date_default_timezone_set(@date_default_timezone_get());
 // $f="/Library/WebServer/Documents/localhost/kod/doc/tools/xhprof/load.php";if(file_exists($f)){include($f);}
 
