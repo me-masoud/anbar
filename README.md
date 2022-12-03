@@ -101,7 +101,6 @@ https://masoud.me
 - sudo apt install docker.io -y
 - sudo snap install docker -y
 - cd anbar
-- install docker on your server 
 - docker volume create anbarVolume
 - docker build -t anbar .
 - docker run -d --name anbarContainer -p 8000:80 -v anbarVolume:/var/www/anbar (path of project on your server) anbar
