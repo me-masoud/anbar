@@ -96,6 +96,10 @@ https://masoud.me
 
 
 # 1.2- Launch By docker
+- git clone https://github.com/me-masoud/anbar.git
+- apt update
+- sudo apt install docker.io
+- sudo snap install docker
 - cd anbar
 - install docker on your server 
 - docker volume create anbarVolume
