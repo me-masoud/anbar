@@ -1,0 +1,39 @@
+version: "3.8"
+services:
+  database:
+    container_name: anbar.mysql
+    image: mysql/mysql-server:latest
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'anbar'
+      MYSQL_USER: 'root'
+      MYSQL_PASSWORD: 'Masoud12@'
+      MYSQL_ROOT_PASSWORD: 'Masoud12@'
+    ports:
+      - '3306:3306'
+    expose:
+      - '3306'
+    volumes:
+      - 'anbarmysql:/var/lib/mysql'
+    networks:
+      - anbar
+  redis:
+    container_name: anbar.redis
+    image: 'redis:alpine'
+    ports:
+      - '${FORWARD_REDIS_PORT:-6379}:6379'
+    volumes:
+      - 'anbarredis:/data'
+    networks:
+      - anbar
+    healthcheck:
+      test: [ "CMD", "redis-cli", "ping" ]
+
+networks:
+  anbar:
+    driver: bridge
+volumes:
+  anbarmysql:
+    driver: local
+  anbarredis:
+    driver: local
