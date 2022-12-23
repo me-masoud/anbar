@@ -73,12 +73,16 @@ https://masoud.me
 
 # 1.1- Launch manually
 - install php
-- install php-mgstring
+  - apt install php
+- install apache or nginx
+  - apt install apache
+- install mysql (not mariadb)
+  - apt install mysql
+- install php-mysql
+- install php-mbstring
 - install php-curl
 - install php-gd
-- install apache or nginx
-- install mysql (not mariadb)
-- install php-mysql
+  - apt install php-mbstring php-curl php-gd php-mysql
 - if you install apache disable directory listing :
   - sudo nano /etc/apache2/apache2.conf
   - change this -> ```Options Indexes FollowSymLinks```
