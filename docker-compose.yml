@@ -1,5 +1,10 @@
 version: "3.3"
 services:
+  app:
+    container_name: anbar
+    build: .
+    ports:
+      - "80:80"
   database:
     container_name: anbar.mysql
     image: mysql/mysql-server:latest
