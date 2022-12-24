@@ -75,14 +75,15 @@ https://masoud.me
 - install php
   - apt install php
 - install apache or nginx
-  - apt install apache
+  - sudo apt install apache2
 - install mysql (not mariadb)
-  - apt install mysql
+  - https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+    - sudo apt install mysql-server -y
 - install php-mysql
 - install php-mbstring
 - install php-curl
 - install php-gd
-  - apt install php-mbstring php-curl php-gd php-mysql
+  - apt install php-mbstring php-curl php-gd php-mysql php-xml
 - if you install apache disable directory listing :
   - sudo nano /etc/apache2/apache2.conf
   - change this -> ```Options Indexes FollowSymLinks```
